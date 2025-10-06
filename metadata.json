@@ -1,0 +1,8 @@
+
+{
+  "name": "LEADER - The Futuristic Portfolio",
+  "description": "An immersive, futuristic 3D-style personal portfolio for 'LEADER', featuring a dynamic space background, neon aesthetics, and an interactive AI assistant powered by Gemini. This is a conceptual implementation focusing on UI/UX and interactivity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
